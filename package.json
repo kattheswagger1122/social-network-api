@@ -1,0 +1,23 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "restful api with node.js & MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kattheswagger1122/social-network-api.git"
+  },
+  "author": "Katrina Shih (github: kattheswagger)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kattheswagger1122/social-network-api/issues"
+  },
+  "homepage": "https://github.com/kattheswagger1122/social-network-api#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
