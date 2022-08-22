@@ -5,13 +5,13 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kattheswagger1122/social-network-api.git"
   },
-  "author": "Katrina Shih (github: kattheswagger)",
+  "author": "Katrina Shih (github: kattheswagger1122)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kattheswagger1122/social-network-api/issues"
