@@ -73,11 +73,7 @@ npm start
 
 #### Walkthrough Video
 
-[this is the walkthrough video](#)
-
-#### Insomnia Screenshot
-
-![Insomnia Screenshot](#)
+[this is the walkthrough video](https://youtu.be/MGlgEkUcvT8)
 
 ## License
 
